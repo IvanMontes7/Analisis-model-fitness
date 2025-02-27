@@ -9,4 +9,11 @@ El gimnasio enfrenta una alta tasa de cancelaciones, lo que afecta sus ingresos 
 ✅ Solución
 A través del análisis de datos, se identificaron patrones de cancelación, se elaboraron perfiles de usuarios y se aplicaron modelos predictivos para mejorar la toma de decisiones.
 
+🛠️ Herramientas Utilizadas
+
+🔹 Python (Pandas, NumPy, Seaborn, Matplotlib)
+🔹 SQL (Consultas para análisis de clientes)
+🔹 Modelos predictivos (Regresión logística, árboles de decisión)
+🔹 Tableau Public (Visualización de patrones de pérdida de clientes)
+
 
